@@ -1,0 +1,32 @@
+.post {
+  background-color: white;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.post_header {
+  align-items: center;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.post_title {
+  margin-left: 10px;
+  font-size: 12px;
+  line-height: 17px;
+}
+.post_body {
+  overflow-wrap: normal;
+}
+
+.post_title > p {
+  color: gray;
+}
+
+.post_buttons {
+  display: flex;
+}
+
+.post_timestamp {
+}
